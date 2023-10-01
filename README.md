@@ -1,4 +1,4 @@
-## Getting_and_Cleaning_Data
+# Getting_and_Cleaning_Data
 WEEK 4 PROJECT 
 
 # SYNOPSIS
