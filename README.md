@@ -1,7 +1,8 @@
 # Getting_and_Cleaning_Data
 WEEK 4 PROJECT 
-
-# SYNOPSIS
+Author: Macarena L. Fernandez Carro
+Institution: John Hopkins University // Coursera
+Data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
@@ -30,7 +31,7 @@ This repository includes 4 files, the R script named run_analysis.R, this read_m
 | RScript | run_analysis.R |
 | Read_me file | README.md|
 | CodeBook file | CodeBook.md|
-| Tidy Data file | Clean Data Set |
+| Tidy Data file | tidy.txt |
 
 
 # CODE EXPLANATIONS
