@@ -36,4 +36,4 @@ REFERENCES
 
 - Thoughtfulbloke
 - Benthecoder
-- Meltin & Casting (A Language, not a Letter: Learning Statisting in R
+- Meltin & Casting (A Language, not a Letter: Learning Statisting in R)
